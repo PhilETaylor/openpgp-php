@@ -1,3 +1,7 @@
+> This is just a fork of the original with phpseclib/phpseclib requirements changed
+
+
+
 OpenPGP.php: OpenPGP for PHP
 ============================
 
